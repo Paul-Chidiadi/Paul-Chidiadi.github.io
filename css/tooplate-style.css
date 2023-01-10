@@ -39,10 +39,12 @@ a:hover {
 }
 
 p {
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 300;
   line-height: 1.5;
   color: #5b5b5b;
+  letter-spacing: 0.5px;
+  font-family: "Poppins", sans-serif;
 }
 
 h1,
@@ -77,8 +79,22 @@ strong {
   font-weight: bold;
 }
 
+/* Media query for Contact Page */
+@media screen and (max-width: 500px) {
+  p {
+    font-size: 11px;
+  }
+  h2 {
+    font-size: 1.25em;
+  }
+  h3 {
+    font-size: 1.1em;
+  }
+}
+
 /* MY OWN STYLING */
 .about-image img {
+  width: 100%;
   object-fit: cover;
   height: 450px;
   width: fit-content;
@@ -87,8 +103,14 @@ strong {
 .img-fluid {
   object-fit: contain;
   height: 450px;
-  margin: 45px 0px;
+  margin: 30px 0px 40px;
   /* box-shadow: 0 0 5px 0px #484848; */
+}
+@media screen and (max-width: 500px) {
+  .img-fluid {
+    object-fit: contain;
+    height: 200px;
+  }
 }
 .project {
   width: 100%;
@@ -100,10 +122,18 @@ strong {
   font-size: 1.8em;
   font-weight: bold;
   text-transform: uppercase;
-  text-decoration: double underline;
+}
+/* Media query for Contact Page */
+@media screen and (max-width: 500px) {
+  .project {
+    padding: 8px 0px;
+  }
+  .project .title {
+    font-size: 1.5em;
+  }
 }
 .project p {
-  text-align: justify;
+  text-align: center;
 }
 
 .custom-btn {
@@ -287,7 +317,7 @@ strong {
 }
 
 .copyright-text {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: normal;
   display: block;
 }
@@ -606,7 +636,7 @@ strong {
 /* CONTACT SECTION*/
 .contact {
   width: 95%;
-  margin: 0px auto;
+  margin: -30px auto;
   padding: 15px;
   overflow-x: hidden;
 }
@@ -670,6 +700,9 @@ strong {
 }
 /* Media query for Contact Page */
 @media screen and (max-width: 900px) {
+  .contact {
+    width: 100%;
+  }
   .divider {
     grid-template-columns: 1fr;
   }
@@ -697,5 +730,8 @@ strong {
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+  }
+  .copyright-text {
+    font-size: 10px;
   }
 }
