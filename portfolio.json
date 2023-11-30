@@ -1,9 +1,35 @@
 [
+    {
+      "project_name": "Ubefu",
+      "image_url": "https://paul-chidiadi.github.io/assets/handymate.png",
+      "description": "UBEFU is an E-learning and educational platform just like Coursera, Udemy, and others, that seek to offer high quality audio-visual content structured to meet the physical educational system obtained in the Nigerian educational system (Primary, Secondary and Tertiary), however with some high level of modification to meet current global job trends and requirement.",
+      "source_link": "https://github.com/ihifix-technology/Ubefu_backend",
+      "live_link": "https://github.com/ihifix-technology/Ubefu_backend",
+      "tech_stack": ["Nodejs","Express","PostgreSql","Typescript","Knexjs","Objectionjs"]
+    },
+
+    {
+      "project_name": "Bca-healthcare",
+      "image_url": "https://paul-chidiadi.github.io/assets/handymate.png",
+      "description": "Bca-Health Care is a healthcare platform where healthcare organizations can meet up with their prospective patients who in turn needs the healthcare services of these organizations.",
+      "source_link": "https://github.com/ihifix-technology/BCA_HealthCare_Server",
+      "live_link": "https://https://bca-healthcare.vercel.app/",
+      "tech_stack": ["Nodejs","Express","MongoDB","Typescript"]
+    },
+  
+    {
+      "project_name": "Vota",
+      "image_url": "https://paul-chidiadi.github.io/assets/handymate.png",
+      "description": "Vota is a voting application where organizations can setup, and manage poll/election events. Electors sign up to participate in events created by an organization and view live events.",
+      "source_link": "https://github.com/Paul-Chidiadi/vota",
+      "live_link": "https://github.com/Paul-Chidiadi/vota",
+      "tech_stack": ["React","Javascript","Nextjs","Redux","HTML","CSS"]
+    },
   
     {
       "project_name": "Greenie",
-      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/handymate.png",
-      "description": "A Full-Stack web application, Greenie is a community that inspires people to plant, earn, nuture and celebrate trees. This application consists of responsive design, signup and login features, CRUD functions, a store(e-commerce) where you can buy and sell trees, a dashboard for users to update and upload personal data, a payment gateway, a chat function.",
+      "image_url": "https://paul-chidiadi.github.io/assets/handymate.png",
+      "description": "A Full-Stack web application, Greenie is a community that inspires people to plant, earn, nuture and celebrate trees. This application consists of responsive design, signup and login features, a chat feature, CRUD functions, a store where you can buy and sell trees, a dashboard for users to update and upload personal data, a payment gateway.",
       "source_link": "https://github.com/Paul-Chidiadi/greenie",
       "live_link": "https://github.com/Paul-Chidiadi/greenie",
       "tech_stack": ["Javascript","PHP","MySQL","JQUERY","HTML","CSS"]
@@ -11,29 +37,20 @@
   
     {
       "project_name": "JDK",
-      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/for.png",
+      "image_url": "https://paul-chidiadi.github.io/assets/for.png",
       "description": "JDK Eyewear is a full-stack ecommerce website, with payment integration, admin page, upload products, delete products, check and confirm orders, manage other parts of the web app.",
       "source_link": "https://github.com/Paul-Chidiadi/JDK",
-      "live_link": "https://github.com/Paul-Chidiadi/JDK",
+      "live_link": "https://eyewearbyjdk.com",
       "tech_stack": ["Javascript","PHP","MySQL","JQUERY","HTML","CSS","Figma"]
     },
   
     {
       "project_name": "ChizzyB Couture",
-      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/space-tourism.jpeg",
-      "description": "A full-stack clothe e-commerce store. This application consists of a blog, responsive views, signup and login features, CRUD functions, a store(e-commerce) where you can buy clothes and other wears, a payment gateway, a school for fashion tutorials, email functions, IndexedDB local storage.",
+      "image_url": "https://paul-chidiadi.github.io/assets/space-tourism.jpeg",
+      "description": "A full-stack clothe e-commerce store. This application consists of a blog, responsive views, signup and login features, CRUD functions, a store where you can buy clothes and other wears, a payment gateway, email functions, IndexedDB local storage.",
       "source_link": "https://github.com/Paul-Chidiadi/chizzyB",
       "live_link": "https://github.com/Paul-Chidiadi/chizzyB",
       "tech_stack": ["Javascript","PHP","MySQL","JQUERY","HTML","CSS"]
     },
-  
-    {
-      "project_name": "FixOn",
-      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/fixon.png",
-      "description": "FixOn is a mobile application for a startup company. It is a platform where users can book services like plumbing, electrician, carpenter, etc. It has Razorpay payment gateway for online transactions.",
-      "source_link": "N/A",
-      "live_link": "N/A",
-      "tech_stack": ["Flutter","Dart","Firebase","Razorpay"]
-    }
   
 ]
