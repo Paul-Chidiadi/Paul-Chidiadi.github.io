@@ -4,7 +4,7 @@
       "image_url": "https://paul-chidiadi.github.io/assets/ubefu.png",
       "description": "UBEFU is an E-learning and educational platform just like Coursera, Udemy, and others, that seek to offer high quality audio-visual content structured to meet the physical educational system obtained in the Nigerian educational system (Primary, Secondary and Tertiary), however with some high level of modification to meet current global job trends and requirement.",
       "source_link": "https://github.com/ihifix-technology/Ubefu_backend",
-      "live_link": "https://github.com/ihifix-technology/Ubefu_backend",
+      "live_link": "https://ubefu-frontend.vercel.app/",
       "tech_stack": ["Nodejs","Express","PostgreSql","Typescript","Knexjs","Objectionjs"]
     },
 
@@ -13,7 +13,7 @@
       "image_url": "https://paul-chidiadi.github.io/assets/bca.png",
       "description": "Bca-Health Care is a healthcare platform where healthcare organizations can meet up with their prospective patients who in turn needs the healthcare services of these organizations.",
       "source_link": "https://github.com/ihifix-technology/BCA_HealthCare_Server",
-      "live_link": "https://https://bca-healthcare.vercel.app/",
+      "live_link": "https://bcahealthcarenetwork.com/",
       "tech_stack": ["Nodejs","Express","MongoDB","Typescript"]
     },
   
@@ -22,8 +22,8 @@
       "image_url": "https://paul-chidiadi.github.io/assets/vota.png",
       "description": "Vota is a voting application where organizations can setup, and manage poll/election events. Electors sign up to participate in events created by an organization and view live events.",
       "source_link": "https://github.com/Paul-Chidiadi/vota",
-      "live_link": "https://github.com/Paul-Chidiadi/vota",
-      "tech_stack": ["React","Javascript","Nextjs","Redux","HTML","CSS"]
+      "live_link": "https://vota-sigma.vercel.app",
+      "tech_stack": ["React","Nodejs","Nextjs","Redux","MongoDB","CSS"]
     },
   
     {
