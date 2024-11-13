@@ -76,7 +76,7 @@
     "image_url": "https://paul-chidiadi.github.io/assets/poyntAd.png",
     "description": "Fullstack advertising web application on the solana blockchain for poynt application. Business and organizations can come to create campaigns to advertise their businesses in the poynt app.",
     "source_link": "https://github.com/Solana-Poynt/Poynt_ad",
-    "live_link": "https://poynt-ad-server.onrender.com/api/v1",
+    "live_link": "https://poyntad.vercel.app",
     "tech_stack": [
       "React",
       "TypeScript",
