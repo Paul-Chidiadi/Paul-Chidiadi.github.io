@@ -19,7 +19,7 @@
     "image_url": "https://paul-chidiadi.github.io/assets/dugout.png",
     "description": "Dugout is a gameFi(sports) on the solana blockchain. It is an online gaming and decentralized finance platform, creating an in-game economy.",
     "source_link": "https://github.com/Paul-Chidiadi/Dugout_server",
-    "live_link": "https://dugout.onrender.com/api/v1",
+    "live_link": "https://dugout-one.vercel.app",
     "tech_stack": [
       "React",
       "TypeScript",
