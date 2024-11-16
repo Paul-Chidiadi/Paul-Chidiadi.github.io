@@ -33,7 +33,7 @@
     "project_name": "Ubefu",
     "image_url": "https://paul-chidiadi.github.io/assets/ubefu.png",
     "description": "UBEFU is an E-learning and educational platform just like Coursera, Udemy, and others, that seek to offer high quality audio-visual content structured to meet the physical educational system obtained in the Nigerian educational system (Primary, Secondary and Tertiary), however with some high level of modification to meet current global job trends and requirement.",
-    "source_link": "https://github.com/ihifix-technology/Ubefu_backend",
+    "source_link": "https://ubefu2.vercel.app/",
     "live_link": "https://ubefu2.vercel.app/",
     "tech_stack": [
       "Nodejs",
@@ -47,7 +47,7 @@
     "project_name": "Tedlog",
     "image_url": "https://paul-chidiadi.github.io/assets/tedlog.png",
     "description": "Fullstack logistics application where users can signup to create deliveries ready for pickup and dispatch. Includes payment integration, users dashboard to manage wallet, transactions and deliveries made. Also an Admin dashboard and drivers dashboard for managing users, deliveries and paymennts",
-    "source_link": "https://github.com/Paul-Chidiadi/tedlog_client",
+    "source_link": "https://github.com/Paul-Chidiadi/tedlog_server",
     "live_link": "https://tedlog-client.vercel.app/",
     "tech_stack": [
       "React",
@@ -62,7 +62,7 @@
     "project_name": "Bca-healthcare",
     "image_url": "https://paul-chidiadi.github.io/assets/bca.png",
     "description": "Bca-Health Care is a healthcare platform where healthcare organizations can meet up with their prospective patients who in turn needs the healthcare services of these organizations.",
-    "source_link": "https://github.com/ihifix-technology/BCA_HealthCare_Server",
+    "source_link": "https://bcahealthcarenetwork.com/",
     "live_link": "https://bcahealthcarenetwork.com/",
     "tech_stack": [
       "Nodejs",
