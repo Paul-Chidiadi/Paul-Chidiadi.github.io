@@ -2,7 +2,7 @@
   {
     "project_name": "Vota",
     "image_url": "https://paul-chidiadi.github.io/assets/vota.png",
-    "description": "Vota is a voting application where organizations can setup, and manage poll/election events. Electors sign up to participate in events created by an organization and view live events.",
+    "description": "Vota is a voting application where organizations can setup, organize, and manage poll/election events. Electors sign up to participate in events created by an organization and view live events.",
     "source_link": "https://github.com/Paul-Chidiadi/vota",
     "live_link": "https://vota-sigma.vercel.app",
     "tech_stack": [
