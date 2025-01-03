@@ -3,7 +3,7 @@
     "project_name": "Vota",
     "image_url": "https://paul-chidiadi.github.io/assets/vota.png",
     "description": "Vota is a voting application where organizations can setup, organize, and manage poll/election events. Electors sign up to participate in events created by an organization and view live events.",
-    "source_link": "https://github.com/Paul-Chidiadi/vota",
+    "source_link": "https://vota-sigma.vercel.app",
     "live_link": "https://vota-sigma.vercel.app",
     "tech_stack": [
       "React",
@@ -18,7 +18,7 @@
     "project_name": "Dugout",
     "image_url": "https://paul-chidiadi.github.io/assets/dugout.png",
     "description": "Dugout is a gameFi(sports) on the solana blockchain. It is an online gaming and decentralized finance platform, creating an in-game economy.",
-    "source_link": "https://github.com/Paul-Chidiadi/Dugout_server",
+    "source_link": "https://dugout-one.vercel.app",
     "live_link": "https://dugout-one.vercel.app",
     "tech_stack": [
       "React",
@@ -33,7 +33,7 @@
     "project_name": "Tedlog",
     "image_url": "https://paul-chidiadi.github.io/assets/tedlog.png",
     "description": "Fullstack logistics application where users can signup to create deliveries ready for pickup and dispatch. Includes payment integration, users dashboard to manage wallet, transactions and deliveries made. Also an Admin dashboard and drivers dashboard for managing users, deliveries and paymennts",
-    "source_link": "https://github.com/Paul-Chidiadi/tedlog_server",
+    "source_link": "https://tedlog-client.vercel.app/",
     "live_link": "https://tedlog-client.vercel.app/",
     "tech_stack": [
       "React",
@@ -61,7 +61,7 @@
     "project_name": "Poynt_AD",
     "image_url": "https://paul-chidiadi.github.io/assets/poyntAd.png",
     "description": "Fullstack advertising web application on the solana blockchain for poynt application. Business and organizations can come to create campaigns to advertise their businesses in the poynt app.",
-    "source_link": "https://github.com/Solana-Poynt/Poynt_ad",
+    "source_link": "https://poyntad.vercel.app",
     "live_link": "https://poyntad.vercel.app",
     "tech_stack": [
       "React",
