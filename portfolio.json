@@ -1,17 +1,54 @@
 [
   {
-    "project_name": "Vota",
-    "image_url": "https://paul-chidiadi.github.io/assets/vota.png",
-    "description": "Vota is a voting application where organizations can setup, organize, and manage poll/election events. Electors sign up to participate in events created by an organization and view live events.",
-    "source_link": "https://vota-sigma.vercel.app",
-    "live_link": "https://vota-sigma.vercel.app",
+    "project_name": "Service Porte",
+    "image_url": "https://paul-chidiadi.github.io/assets/service.png",
+    "description": "ServicePorte is designed to replace fragmented tools with a single business link that customers can use to interact with you instantly. From viewing offerings to ordering and paying, everything happens through one seamless entry point — eliminating friction, delays, and manual processes.",
+    "source_link": "https://serviceporte.com/",
+    "live_link": "https://serviceporte.com/",
     "tech_stack": [
-      "React",
-      "Nodejs",
       "Nextjs",
-      "Redux",
+      "Nestjs",
       "MongoDB",
-      "Firebase"
+      "Typescript"
+    ]
+  },
+   {
+    "project_name": "Merry Heart Savings App",
+    "image_url": "https://paul-chidiadi.github.io/assets/merry.png",
+    "description": "Merry Heart empowers individuals to save intentionally, grow their wealth securely, and achieve financial peace through flexible savings plans, transparent management, and consistent returns designed for everyday dreamers.",
+    "source_link": "https://merryheartng.com/",
+    "live_link": "https://merryheartng.com/",
+    "tech_stack": [
+      "Nextjs",
+      "Nestjs",
+      "Postgres",
+      "Typescript"
+    ]
+  },
+  {
+    "project_name": "MIHRA",
+    "image_url": "https://paul-chidiadi.github.io/assets/mihra.png",
+    "description": "The MIHRA (Mind Innovation and Health Reform Africa) project was launched by Wellcore Health Initiative, a non-profit committed to transforming mental health in Africa through research, advocacy, digital innovation, and community-driven initiatives. Our objectives reflect a world-class approach to creating sustainable, accessible, and impactful digital health solutions for African youth",
+    "source_link": "https://mihrafrica.com",
+    "live_link": "https://mihrafrica.com",
+    "tech_stack": [
+      "Wordpress",
+      "CMS",
+      "PHP",
+      "Javascript",
+    ]
+  },
+  {
+    "project_name": "BCA",
+    "image_url": "https://paul-chidiadi.github.io/assets/bca.png",
+    "description": "The Benson Coleman & Associates Healthcare Network is an integrated business platform of Healthcare service providers, medical devices vendors, and financial services operators in Nigeria",
+    "source_link": "https://bensoncoleman.com/",
+    "live_link": "https://bensoncoleman.com/",
+    "tech_stack": [
+      "Wordpress",
+      "CMS",
+      "PHP",
+      "Javascript",
     ]
   },
   {
@@ -27,34 +64,6 @@
       "Redux",
       "PostgreSQL",
       "Nextjs"
-    ]
-  },
-  {
-    "project_name": "Tedlog",
-    "image_url": "https://paul-chidiadi.github.io/assets/tedlog.png",
-    "description": "Fullstack logistics application where users can signup to create deliveries ready for pickup and dispatch. Includes payment integration, users dashboard to manage wallet, transactions and deliveries made. Also an Admin dashboard and drivers dashboard for managing users, deliveries and paymennts",
-    "source_link": "https://tedlog-client.vercel.app/",
-    "live_link": "https://tedlog-client.vercel.app/",
-    "tech_stack": [
-      "React",
-      "TypeScript",
-      "Nextjs",
-      "Redux",
-      "MySQL",
-      "Nestjs"
-    ]
-  },
-  {
-    "project_name": "Bca-healthcare",
-    "image_url": "https://paul-chidiadi.github.io/assets/bca.png",
-    "description": "Bca-Health Care is a healthcare platform where healthcare organizations can meet up with their prospective patients who in turn needs the healthcare services of these organizations.",
-    "source_link": "https://bcahealthcarenetwork.com/",
-    "live_link": "https://bcahealthcarenetwork.com/",
-    "tech_stack": [
-      "Nodejs",
-      "Express",
-      "MongoDB",
-      "Typescript"
     ]
   },
   {
