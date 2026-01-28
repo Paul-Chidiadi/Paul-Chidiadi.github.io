@@ -39,16 +39,16 @@
     ]
   },
   {
-    "project_name": "BCA",
-    "image_url": "https://paul-chidiadi.github.io/assets/bca.png",
-    "description": "The Benson Coleman & Associates Healthcare Network is an integrated business platform of Healthcare service providers, medical devices vendors, and financial services operators in Nigeria",
-    "source_link": "https://bensoncoleman.com/",
-    "live_link": "https://bensoncoleman.com/",
+    "project_name": "Karthlog",
+    "image_url": "https://paul-chidiadi.github.io/assets/kart.png",
+    "description": "Karthlog seamlessly connects physical cards with digital benefits, creating a unique ecosystem for collectors and users. Karthlog cards blend digital currency with collectible art, giving you access to exclusive content, discounts, and a community of creators and collectors.",
+    "source_link": "https://karthlog.madeinblacc.net/",
+    "live_link": "https://karthlog.madeinblacc.net/",
     "tech_stack": [
-      "Wordpress",
-      "CMS",
-      "PHP",
-      "Javascript"
+      "Nextjs",
+      "Nestjs",
+      "Postgres",
+      "Typescript"
     ]
   },
   {
