@@ -29,7 +29,7 @@
     "description": "PeekNeed is an on-demand delivery and errand platform bringing same-day pickup, real-time package tracking, and personal shopping to businesses and busy individuals across Abia State, Nigeria. I took it from concept to deployment: the Nest.js and PostgreSQL backend, live tracking and order flow, the Next.js interface, and the live launch.",
     "source_link": "https://www.peekneed.com/",
     "live_link": "https://www.peekneed.com/",
-    "tech_stack": ["Nextjs", "Nestjs", "PostgreSQL", "Typescript"]
+    "tech_stack": ["Nextjs", "Nestjs", "MongoDB", "Typescript"]
   },
   {
     "project_name": "Merry Heart Savings App",
@@ -61,7 +61,7 @@
     "description": "Dugoutt turns solo wagering into a social sport: users bet together, pool their stakes, predict outcomes, and take the pot — a shared, competitive experience instead of betting alone. I took it from concept to deployment: the pooled-prediction and payout engine, the Nest.js and Solana settlement backend, the Next.js client, and the live release.",
     "source_link": "https://www.dugoutt.fun/",
     "live_link": "https://www.dugoutt.fun/",
-    "tech_stack": ["Nextjs", "Nestjs", "Typescript", "PostgreSQL", "Solana"]
+    "tech_stack": ["Nextjs", "Rust", "Typescript", "PostgreSQL", "Solana"]
   },
   {
     "project_name": "OpenStake",
@@ -69,7 +69,7 @@
     "description": "OpenStake is a peer-to-pool sports-betting platform built for verifiability and transparency, letting users stake against open pools rather than an opaque house so every wager is provably fair. I took it from concept to deployment: the peer-to-pool settlement mechanics, the on-chain Solana and Anchor logic, the Nest.js services, and the Next.js client.",
     "source_link": "https://openstake-client.vercel.app/",
     "live_link": "https://openstake-client.vercel.app/",
-    "tech_stack": ["Nextjs", "Typescript", "Solana", "Anchor", "Nestjs"]
+    "tech_stack": ["Nextjs", "Typescript", "Solana", "Anchor", "Rust"]
   },
   {
     "project_name": "Benson Coleman & Associates",
