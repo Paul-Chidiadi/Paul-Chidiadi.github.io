@@ -25,7 +25,7 @@
   },
   {
     "project_name": "Karthlog",
-    "image_url": "https://paul-chidiadi.github.io/assets/kart.png",
+    "image_url": "https://paul-chidiadi.github.io/assets/karthlog.png",
     "description": "Karthlog bridges physical collectible cards with digital benefits, giving collectors one ecosystem where a card unlocks exclusive content, discounts, and community — blending digital currency with collectible art. I took it from concept to deployment: the Nest.js and PostgreSQL backend, the Next.js redemption interface, and the live release.",
     "source_link": "https://karthlog.madeinblacc.net/",
     "live_link": "https://karthlog.madeinblacc.net/",
