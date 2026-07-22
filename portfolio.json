@@ -2,83 +2,81 @@
   {
     "project_name": "Service Porte",
     "image_url": "https://paul-chidiadi.github.io/assets/service.png",
-    "description": "ServicePorte is designed to replace fragmented tools with a single business link that customers can use to interact with you instantly. From viewing offerings to ordering and paying, everything happens through one seamless entry point — eliminating friction, delays, and manual processes.",
+    "description": "ServicePorte replaces the tangle of disconnected sales tools — scattered chats, manual invoices, one-off links — with a single shareable business link customers use to browse, order, and pay in one flow. I took it from concept to deployment: the Nest.js and MongoDB API, the Next.js storefront and merchant dashboard, and the live launch.",
     "source_link": "https://serviceporte.com/",
     "live_link": "https://serviceporte.com/",
-    "tech_stack": [
-      "Nextjs",
-      "Nestjs",
-      "MongoDB",
-      "Typescript"
-    ]
+    "tech_stack": ["Nextjs", "Nestjs", "MongoDB", "Typescript"]
   },
-   {
+  {
     "project_name": "Merry Heart Savings App",
     "image_url": "https://paul-chidiadi.github.io/assets/merry.png",
-    "description": "Merry Heart empowers individuals to save intentionally, grow their wealth securely, and achieve financial peace through flexible savings plans, transparent management, and consistent returns designed for everyday dreamers.",
+    "description": "Merry Heart is a digital savings platform that helps everyday people save with intention and grow their money through flexible, transparent plans and consistent returns. I took it from concept to deployment: modeling secure wallet and savings logic on PostgreSQL, the Nest.js transaction backend, the Next.js experience, and the live release.",
     "source_link": "https://merryheartng.com/",
     "live_link": "https://merryheartng.com/",
-    "tech_stack": [
-      "Nextjs",
-      "Nestjs",
-      "Postgres",
-      "Typescript"
-    ]
+    "tech_stack": ["Nextjs", "Nestjs", "Postgres", "Typescript"]
   },
   {
     "project_name": "MIHRA",
     "image_url": "https://paul-chidiadi.github.io/assets/mihra.png",
-    "description": "The MIHRA (Mind Innovation and Health Reform Africa) project was launched by Wellcore Health Initiative, a non-profit committed to transforming mental health in Africa through research, advocacy, digital innovation, and community-driven initiatives. Our objectives reflect a world-class approach to creating sustainable, accessible, and impactful digital health solutions for African youth",
+    "description": "MIHRA, an initiative of the Wellcore Health non-profit, is a platform advancing mental-health research, advocacy, and community programs for African youth. I took it from concept to deployment: a custom content-managed WordPress build the team updates independently, with a fast, accessible front end presenting their work to a global audience.",
     "source_link": "https://mihrafrica.com",
     "live_link": "https://mihrafrica.com",
-    "tech_stack": [
-      "Wordpress",
-      "CMS",
-      "PHP",
-      "Javascript"
-    ]
+    "tech_stack": ["Wordpress", "CMS", "PHP", "Javascript"]
   },
   {
     "project_name": "Karthlog",
     "image_url": "https://paul-chidiadi.github.io/assets/kart.png",
-    "description": "Karthlog seamlessly connects physical cards with digital benefits, creating a unique ecosystem for collectors and users. Karthlog cards blend digital currency with collectible art, giving you access to exclusive content, discounts, and a community of creators and collectors.",
+    "description": "Karthlog bridges physical collectible cards with digital benefits, giving collectors one ecosystem where a card unlocks exclusive content, discounts, and community — blending digital currency with collectible art. I took it from concept to deployment: the Nest.js and PostgreSQL backend, the Next.js redemption interface, and the live release.",
     "source_link": "https://karthlog.madeinblacc.net/",
     "live_link": "https://karthlog.madeinblacc.net/",
-    "tech_stack": [
-      "Nextjs",
-      "Nestjs",
-      "Postgres",
-      "Typescript"
-    ]
+    "tech_stack": ["Nextjs", "Nestjs", "Postgres", "Typescript"]
   },
   {
-    "project_name": "Dugout",
-    "image_url": "https://paul-chidiadi.github.io/assets/dugout.png",
-    "description": "Dugout is a gameFi(sports) on the solana blockchain. It is an online gaming and decentralized finance platform, creating an in-game economy.",
-    "source_link": "https://dugout-one.vercel.app",
-    "live_link": "https://dugout-one.vercel.app",
-    "tech_stack": [
-      "React",
-      "TypeScript",
-      "Nestjs",
-      "Redux",
-      "PostgreSQL",
-      "Nextjs"
-    ]
+    "project_name": "Dugoutt",
+    "image_url": "https://paul-chidiadi.github.io/assets/dugoutt.png",
+    "description": "Dugoutt turns solo wagering into a social sport: users bet together, pool their stakes, predict outcomes, and take the pot — a shared, competitive experience instead of betting alone. I took it from concept to deployment: the pooled-prediction and payout engine, the Nest.js and Solana settlement backend, the Next.js client, and the live release.",
+    "source_link": "https://www.dugoutt.fun/",
+    "live_link": "https://www.dugoutt.fun/",
+    "tech_stack": ["Nextjs", "Nestjs", "Typescript", "PostgreSQL", "Solana"]
   },
   {
-    "project_name": "Poynt_AD",
-    "image_url": "https://paul-chidiadi.github.io/assets/poyntAd.png",
-    "description": "Fullstack advertising web application on the solana blockchain for poynt application. Business and organizations can come to create campaigns to advertise their businesses in the poynt app.",
-    "source_link": "https://poyntad.vercel.app",
-    "live_link": "https://poyntad.vercel.app",
-    "tech_stack": [
-      "React",
-      "TypeScript",
-      "Nestjs",
-      "Redux",
-      "PostgreSQL",
-      "Nextjs"
-    ]
+    "project_name": "Nairafinance",
+    "image_url": "https://paul-chidiadi.github.io/assets/nairafinance.png",
+    "description": "Nairafinance is an AI-powered financial assistant that replaces spreadsheets and guesswork — users describe income, expenses, and goals in plain language and get instant calculations across loans, savings, tax, and travel. I took it from concept to deployment: the Nest.js and PostgreSQL backend, the AI insight engine, the Next.js app, and the live SaaS.",
+    "source_link": "https://mmng.vercel.app/",
+    "live_link": "https://mmng.vercel.app/",
+    "tech_stack": ["Nextjs", "Nestjs", "PostgreSQL", "Typescript", "AI"]
+  },
+  {
+    "project_name": "Rust Undead",
+    "image_url": "https://paul-chidiadi.github.io/assets/rustundead.png",
+    "description": "Rust Undead is a Solana battle game with a mission — \"Know Solana Through Battle\" — teaching newcomers how the Solana ecosystem works through hands-on, combat-based play instead of dry documentation. I took it from concept to deployment: the on-chain Rust and Anchor programs, the game and wallet logic, and the interactive Next.js front end.",
+    "source_link": "https://www.rustundead.fun/",
+    "live_link": "https://www.rustundead.fun/",
+    "tech_stack": ["Nextjs", "Typescript", "Solana", "Anchor", "Rust"]
+  },
+  {
+    "project_name": "OpenStake",
+    "image_url": "https://paul-chidiadi.github.io/assets/openstake.png",
+    "description": "OpenStake is a peer-to-pool sports-betting platform built for verifiability and transparency, letting users stake against open pools rather than an opaque house so every wager is provably fair. I took it from concept to deployment: the peer-to-pool settlement mechanics, the on-chain Solana and Anchor logic, the Nest.js services, and the Next.js client.",
+    "source_link": "https://openstake-client.vercel.app/",
+    "live_link": "https://openstake-client.vercel.app/",
+    "tech_stack": ["Nextjs", "Typescript", "Solana", "Anchor", "Nestjs"]
+  },
+  {
+    "project_name": "Benson Coleman & Associates",
+    "image_url": "https://paul-chidiadi.github.io/assets/bensoncoleman.png",
+    "description": "Benson Coleman & Associates is a Nigerian management consultancy that connects investors with credible healthcare opportunities while managing and restoring facilities across the country through financial and advisory services. I took it from concept to deployment: a polished corporate Next.js site presenting their services with a fast, accessible front end.",
+    "source_link": "https://bensoncoleman.com/",
+    "live_link": "https://bensoncoleman.com/",
+    "tech_stack": ["Wordpress", "CMS", "PHP", "Javascript"]
+  },
+  {
+    "project_name": "PeekNeed",
+    "image_url": "https://paul-chidiadi.github.io/assets/peekneed.png",
+    "description": "PeekNeed is an on-demand delivery and errand platform bringing same-day pickup, real-time package tracking, and personal shopping to businesses and busy individuals across Abia State, Nigeria. I took it from concept to deployment: the Nest.js and PostgreSQL backend, live tracking and order flow, the Next.js interface, and the live launch.",
+    "source_link": "https://www.peekneed.com/",
+    "live_link": "https://www.peekneed.com/",
+    "tech_stack": ["Nextjs", "Nestjs", "PostgreSQL", "Typescript"]
   }
 ]
